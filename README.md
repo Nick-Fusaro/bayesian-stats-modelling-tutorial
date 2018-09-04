@@ -8,7 +8,7 @@ To get started, click this link.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Nick-Fusaro/bayesian-stats-modelling-tutorial/master)
 
-This is a binder session in which you can mess around and write python in interactive notebooks.
+This is a binder session in which you can mess around and write python in interactive notebooks. Pop open notebooks/01-Student-Probability_a_simulated_introduction_abbv.ipynb and get going!
 
 # Further Reading & Resources
 
